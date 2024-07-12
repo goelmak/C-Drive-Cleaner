@@ -3,6 +3,8 @@
 
 # File Deletion Script for C Drive Cleanup
 
+Used when your c drive fills up with unnecessary files
+
 This TypeScript script is designed to delete unnecessary files from specific directories on the C drive in Windows.
 
 ## Prerequisites
@@ -30,7 +32,6 @@ Before running this script, ensure you have the following installed:
    ```
 
 ## Usage
-
 To run the script in admin mode on Windows:
 
 1. **Open Command Prompt as Administrator:**
