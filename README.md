@@ -77,5 +77,3 @@ import emptyTrash from "empty-trash";
 Feel free to fork the repository and contribute to the project!
 
 ---
-
-In this template, I've added clickable links for downloading Node.js, viewing the `index.ts` file, and accessing the `empty-trash` npm package. Adjust the links and paths as needed for your specific project.
